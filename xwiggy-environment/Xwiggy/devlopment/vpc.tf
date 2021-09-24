@@ -1,6 +1,6 @@
 provider "aws" {
-  access_key = "AKIA265HOPCF7HX2BOFR"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
   region = "us-west-2"
 }
 module "xwiggy-vpc" {
