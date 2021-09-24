@@ -1,2 +1,2 @@
 # Xwiggy-terraform
-terraform code fir xwiggy project
+terraform code for xwiggy project
